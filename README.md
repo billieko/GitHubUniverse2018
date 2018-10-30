@@ -24,7 +24,7 @@ Held at the [Palace of Fine Arts](https://en.wikipedia.org/wiki/Palace_of_Fine_A
 
 * [2:36:18](https://youtu.be/WhK3yXkg5sY?t=9378) - Building an agile AI research-to-production experience
 * [4:16:00](https://youtu.be/WhK3yXkg5sY?t=15360) - Innersource and the power of automation at Elli Lilly
-5:26:26 - Collaborating across the stack with GitHub and GraphQL
+* [5:26:25](https://youtu.be/WhK3yXkg5sY?t=19585) - Collaborating across the stack with GitHub and GraphQL
 
 
 ### Perisphere Stage
